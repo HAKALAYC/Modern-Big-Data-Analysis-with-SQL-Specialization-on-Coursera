@@ -1,2 +1,2 @@
 # Careerway
-Modern Big Data Analysis with SQL Specialization  on Coursera
+Modern Big Data Analysis with SQL Specialization Assignments  on Coursera
